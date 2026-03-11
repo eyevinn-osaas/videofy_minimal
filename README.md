@@ -14,7 +14,7 @@ Found a problem or want to chat about the project? Open an issue or join our [Di
 
 ## What It Does
 
-Videofy Minimal takes content from a source such as Reuters, AP, CAPI, or a test web URL, builds a manuscript, matches media, generates voiceover, and renders a video.
+Videofy Minimal takes content from a source such as Reuters, AP, or a test web URL, builds a manuscript, matches media, generates voiceover, and renders a video.
 
 The result is a local MP4 with a human-in-the-loop workflow in the CMS UI, so editors can review, tweak, and rerun before rendering.
 
